@@ -9,13 +9,17 @@ Aside from building a nifty app, a focus of the project is for us to learn about
 the fundamental technologies of the web. We therefore don't intend to lean on
 frameworks like React, Angular, Next.js, etc.
 
-We'll be writing **semantic HTML**, using **hand-crafted CSS** to control the
-look and feel, and (where required) adding support for client-side behaviour by
-writing **"vanilla" JavaScript**.
+We'll be building the user interface with [semantic] HTML and CSS, learning
+about, and (where required) adding support for interactive behaviour in the
+browser (e.g. dragging a task between columns on the board) by writing
+**"vanilla" JavaScript**.
 
-And if we need to add interactive behaviour in the browser, we'll learn how to
-use the relevant [browser APIs].
+To put that another way, we're not planning on using any client-side frameworks
+(e.g. React, Angular, Vue, etc). Instead, we'll learn how to use some of the
+[browser APIs] directly, which should shed some more light on how the web works
+"under the hood".
 
+[semantic HTML]: https://web.dev/learn/html/semantic-html
 [browser APIs]: https://developer.mozilla.org/en-US/docs/Web/API
 
 ## How we (hope to) work
